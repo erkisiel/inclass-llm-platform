@@ -1,0 +1,19 @@
+REPO_INFO
+Repository Name:
+inclass-llm-platform
+Repository URL:
+https://github.com/erkisie/inclass-llm-platform
+Default Branch:
+main
+Project Type:
+Full-Stack Classroom Activity Management Platform
+Technologies:
+FastAPI, Supabase/PostgreSQL, HTML, CSS, JavaScript
+Sprint Tags:
+sprint-1
+sprint-2
+final-sprint
+Project Management Tools:
+GitHub
+ClickUp
+
